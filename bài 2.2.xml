@@ -1,0 +1,27 @@
+#Lê Ngọc Thảo Nhi - DHKL17A2HN
+#Lập trình Python nâng cao - chương 2
+#Bài 2.2
+
+<students>
+    <student>
+        <id>001</id>
+        <name>Lê Ngọc Thảo Nhi</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL17A2HN</class>
+        <gender>Nữ</gender>
+    </student>
+    <student>
+        <id>002</id>
+        <name>Trần Thị B</name>
+        <birthYear>2001</birthYear>
+        <class>12A2</class>
+        <gender>Nữ</gender>
+    </student>
+    <student>
+        <id>003</id>
+        <name>Phạm Văn C</name>
+        <birthYear>2000</birthYear>
+        <class>12B1</class>
+        <gender>Nam</gender>
+    </student>
+</students>

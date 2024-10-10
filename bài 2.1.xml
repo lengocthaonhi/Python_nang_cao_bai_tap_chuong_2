@@ -1,0 +1,17 @@
+#Lê Ngọc Thảo Nhi - DHKL17A2HN
+#Lập trình Python nâng cao - chương 2
+#Bài 2.1
+
+<company>
+    <name>Công Ty ABC</name>
+    <director>
+        <name>Nguyễn Văn A</name>
+        <phone>0123456789</phone>
+    </director>
+    <address>
+        <street>123 Đường ABC</street>
+        <city>Hà Nội</city>
+        <zipcode>100000</zipcode>
+    </address>
+    <taxId>1234567890</taxId>
+</company>
